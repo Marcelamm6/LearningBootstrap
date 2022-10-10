@@ -1,0 +1,10 @@
+.navbar>.container-fluid{
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.nav-pills .nav-link.active{
+    background-color: #ffec99;
+}
