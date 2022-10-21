@@ -8,3 +8,8 @@
 .nav-pills .nav-link.active{
     background-color: #ffec99;
 }
+
+.link-my:hover {
+color: #666;
+cursor: pointer;
+}
